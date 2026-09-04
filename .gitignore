@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Editor/OS
+.DS_Store
+*.local
+
+# Env files
+.env
+.env.*
+!.env.example
